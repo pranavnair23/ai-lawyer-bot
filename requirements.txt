@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+streamlit
+qdrant-client
+tiktoken
+huggingface-hub==0.14.1
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+langchain_community
+fastembed
+openai
